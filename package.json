@@ -1,0 +1,11 @@
+{
+  "name": "markdown-link-auditor",
+  "version": "1.1.0",
+  "main": "js/auditor.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
